@@ -2,7 +2,7 @@ package org.scnu.runningCode.testSort;
 
 import org.scnu.detect.SystemInfo;
 import org.scnu.hardwareObject.CpuAndMemInUse;
-import testCode.QuickSort;
+//import testCode.QuickSort;
 
 import java.util.Arrays;
 
